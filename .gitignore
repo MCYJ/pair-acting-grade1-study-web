@@ -1,0 +1,6 @@
+source-evidence.json
+website-validation*.json
+publication-*.json
+*-qa.jpg
+*-qa.png
+__pycache__/
